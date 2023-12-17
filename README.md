@@ -23,3 +23,7 @@ This is a simple implementation of the classic Connect Three game in C. The game
 1. Run the compiled executable to start the game.
 2. Players take turns entering the column (1-7) where they want to make a move.
 3. The game continues until a player wins or the board is full, resulting in a draw.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
